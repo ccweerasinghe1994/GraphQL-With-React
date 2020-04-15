@@ -8,9 +8,15 @@
     },
     {
       "id": "13",
-      "name": "samantha",
-      "age": 24,
-      "companyId": "2"
+      "name": "snick",
+      "age": 12,
+      "companyId": "1",
+      "firstName": "wchamara"
+    },
+    {
+      "firstName": "chamara",
+      "age": 23,
+      "id": "E5C_Fs7"
     },
     {
       "id": "13",
@@ -20,7 +26,15 @@
     }
   ],
   "companies": [
-    { "id": "1", "name": "apple", "description": "iPhone" },
-    { "id": "2", "name": "Google", "description": "search" }
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
   ]
 }
